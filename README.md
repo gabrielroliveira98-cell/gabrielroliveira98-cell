@@ -56,6 +56,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na UNINOVE** e Auxiliar de
 
 | Projeto | O que é | Stack | Links |
 |---|---|---|---|
+| 🚛 **Gestão de Frota** | Análise de dados de ponta a ponta com dados fictícios: limpeza justificada em SQL, 8 análises com funções de janela, insights para a gestão e sistema web com painel e alertas | Python · SQL · Power BI · JavaScript | [Código](https://github.com/gabrielroliveira98-cell/gestao-de-frota) |
 | 📈 **Patrimônio+** | Painel de finanças pessoais com metas, investimentos, gastos, gráficos e projeções, sincronizado na nuvem | React · Recharts · Firebase | [App](https://gabrielroliveira98-cell.github.io/patrimonio-mais/) · [Código](https://github.com/gabrielroliveira98-cell/patrimonio-mais) |
 | 💈 **ALTIER Barbearia** | Landing page premium com hero 3D animado pelo scroll (sequência de frames em canvas) | Tailwind · GSAP · ScrollTrigger | [Site](https://gabrielroliveira98-cell.github.io/lp-barbearia-3d/) · [Código](https://github.com/gabrielroliveira98-cell/lp-barbearia-3d) |
 | ☕ **EAJ Cafés Especiais** | Loja virtual com painel de BI: indicadores de vendas e gráficos SVG desenhados do zero | Python · Flask · SQLite · JS | [Código](https://github.com/gabrielroliveira98-cell/eaj-cafes-sistema) |
